@@ -1,0 +1,15 @@
+D:\C#\EventLaba\bin\Debug\net6.0\EventLaba.exe
+D:\C#\EventLaba\bin\Debug\net6.0\EventLaba.deps.json
+D:\C#\EventLaba\bin\Debug\net6.0\EventLaba.runtimeconfig.json
+D:\C#\EventLaba\bin\Debug\net6.0\EventLaba.dll
+D:\C#\EventLaba\bin\Debug\net6.0\EventLaba.pdb
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.csproj.AssemblyReference.cache
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.AssemblyInfoInputs.cache
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.AssemblyInfo.cs
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.csproj.CoreCompileInputs.cache
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.dll
+D:\C#\EventLaba\obj\Debug\net6.0\refint\EventLaba.dll
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.pdb
+D:\C#\EventLaba\obj\Debug\net6.0\EventLaba.genruntimeconfig.cache
+D:\C#\EventLaba\obj\Debug\net6.0\ref\EventLaba.dll
