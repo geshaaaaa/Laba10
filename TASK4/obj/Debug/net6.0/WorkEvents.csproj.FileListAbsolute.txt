@@ -1,0 +1,15 @@
+D:\C#\WorkEvents\bin\Debug\net6.0\WorkEvents.exe
+D:\C#\WorkEvents\bin\Debug\net6.0\WorkEvents.deps.json
+D:\C#\WorkEvents\bin\Debug\net6.0\WorkEvents.runtimeconfig.json
+D:\C#\WorkEvents\bin\Debug\net6.0\WorkEvents.dll
+D:\C#\WorkEvents\bin\Debug\net6.0\WorkEvents.pdb
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.csproj.AssemblyReference.cache
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.AssemblyInfoInputs.cache
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.AssemblyInfo.cs
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.csproj.CoreCompileInputs.cache
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.dll
+D:\C#\WorkEvents\obj\Debug\net6.0\refint\WorkEvents.dll
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.pdb
+D:\C#\WorkEvents\obj\Debug\net6.0\WorkEvents.genruntimeconfig.cache
+D:\C#\WorkEvents\obj\Debug\net6.0\ref\WorkEvents.dll

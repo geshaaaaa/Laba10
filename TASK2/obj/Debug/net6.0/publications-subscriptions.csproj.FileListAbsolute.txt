@@ -1,0 +1,15 @@
+D:\C#\publications-subscriptions\bin\Debug\net6.0\publications-subscriptions.exe
+D:\C#\publications-subscriptions\bin\Debug\net6.0\publications-subscriptions.deps.json
+D:\C#\publications-subscriptions\bin\Debug\net6.0\publications-subscriptions.runtimeconfig.json
+D:\C#\publications-subscriptions\bin\Debug\net6.0\publications-subscriptions.dll
+D:\C#\publications-subscriptions\bin\Debug\net6.0\publications-subscriptions.pdb
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.csproj.AssemblyReference.cache
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.AssemblyInfoInputs.cache
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.AssemblyInfo.cs
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.csproj.CoreCompileInputs.cache
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.dll
+D:\C#\publications-subscriptions\obj\Debug\net6.0\refint\publications-subscriptions.dll
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.pdb
+D:\C#\publications-subscriptions\obj\Debug\net6.0\publications-subscriptions.genruntimeconfig.cache
+D:\C#\publications-subscriptions\obj\Debug\net6.0\ref\publications-subscriptions.dll

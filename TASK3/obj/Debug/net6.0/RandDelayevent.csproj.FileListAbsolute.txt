@@ -1,0 +1,15 @@
+D:\C#\RandDelayevent\bin\Debug\net6.0\RandDelayevent.exe
+D:\C#\RandDelayevent\bin\Debug\net6.0\RandDelayevent.deps.json
+D:\C#\RandDelayevent\bin\Debug\net6.0\RandDelayevent.runtimeconfig.json
+D:\C#\RandDelayevent\bin\Debug\net6.0\RandDelayevent.dll
+D:\C#\RandDelayevent\bin\Debug\net6.0\RandDelayevent.pdb
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.csproj.AssemblyReference.cache
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.AssemblyInfoInputs.cache
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.AssemblyInfo.cs
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.csproj.CoreCompileInputs.cache
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.dll
+D:\C#\RandDelayevent\obj\Debug\net6.0\refint\RandDelayevent.dll
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.pdb
+D:\C#\RandDelayevent\obj\Debug\net6.0\RandDelayevent.genruntimeconfig.cache
+D:\C#\RandDelayevent\obj\Debug\net6.0\ref\RandDelayevent.dll

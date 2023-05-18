@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventLaba", "EventLaba.csproj", "{5ACA2479-EF26-4EF1-B822-26661ACB50D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandDelayevent", "RandDelayevent.csproj", "{81BD40B2-F218-478D-9F5E-477C3B799E65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5ACA2479-EF26-4EF1-B822-26661ACB50D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5ACA2479-EF26-4EF1-B822-26661ACB50D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5ACA2479-EF26-4EF1-B822-26661ACB50D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5ACA2479-EF26-4EF1-B822-26661ACB50D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81BD40B2-F218-478D-9F5E-477C3B799E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81BD40B2-F218-478D-9F5E-477C3B799E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81BD40B2-F218-478D-9F5E-477C3B799E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81BD40B2-F218-478D-9F5E-477C3B799E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {34E1E401-C6A2-439C-BBD4-E2C1A3E3BB2A}
+		SolutionGuid = {9CE4021B-C886-4CCF-87AA-613D41CFA129}
 	EndGlobalSection
 EndGlobal
